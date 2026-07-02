@@ -1,0 +1,2 @@
+TURNSTILE_SECRET_KEY="paste-your-turnstile-secret-key"
+CONTACT_DESTINATION_EMAIL="verified-destination@example.com"

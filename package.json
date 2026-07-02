@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "contact:dev": "wrangler dev",
+    "contact:deploy": "wrangler deploy",
+    "contact:secret:turnstile": "wrangler secret put TURNSTILE_SECRET_KEY",
+    "contact:secret:destination": "wrangler secret put CONTACT_DESTINATION_EMAIL",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "wrangler": "^4.106.0"
+  }
+}

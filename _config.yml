@@ -30,3 +30,10 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - wrangler.jsonc
+  - src
+  - test
+  - docs
+  - .dev.vars.example
