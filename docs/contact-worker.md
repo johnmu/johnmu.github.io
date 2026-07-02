@@ -16,12 +16,6 @@ Worker is deployed and tested.
 
 ## Deploy
 
-Install the local Worker toolchain:
-
-```sh
-npm install
-```
-
 Authenticate Wrangler if needed:
 
 ```sh
@@ -31,14 +25,14 @@ npx wrangler login
 Add the required secrets. Paste the values only into Wrangler's prompt:
 
 ```sh
-npm run contact:secret:turnstile
-npm run contact:secret:destination
+npx wrangler secret put TURNSTILE_SECRET_KEY
+npx wrangler secret put CONTACT_DESTINATION_EMAIL
 ```
 
 Deploy the Worker:
 
 ```sh
-npm run contact:deploy
+npx wrangler deploy
 ```
 
 ## Smoke tests
