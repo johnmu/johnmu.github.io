@@ -28,7 +28,7 @@ practice answering questions under pressure and also hopefully have a
 supportive environment for when the pressure of quals hits. 
 
 *How to form a group:* The most common way is to leave your
-contact details on the [quals forums](https://ccnet.stanford.edu/quals/).
+contact details on the [quals forums](https://ccnet.stanford.edu/quals/) (dead link).
 Another good way is to try and find older students to recommend a group. Most
 people join multiple quals groups in order to get more practice and motivation. 
 This also allows you to leave one if you don't click with the other members. 
@@ -61,7 +61,7 @@ I'll add this when I have time, formula sheets, useful books, etc…
 
 # Choosing professors
 
-[Choosing professors](https://ee.stanford.edu/phd/quals/forms/prefs.cgi)
+[Choosing professors](https://ee.stanford.edu/phd/quals/forms/prefs.cgi) (dead link)
  is overly complicated. Essentially you select 4 groups of 5 
 professors, this goes into Prof. Gill's magical algorithm and you get your final
 10 examiners. Despite this apparent black box there are some strategies that
