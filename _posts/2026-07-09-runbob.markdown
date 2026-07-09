@@ -1,0 +1,11 @@
+---
+layout: post
+title: "RunBob"
+date: 2026-07-09
+---
+
+[RunBob](https://apps.apple.com/us/app/runbob/id6785716725) is now on the App Store.
+
+<a href="/assets/runbob/runbob-app-store-page.jpg"><img src="/assets/runbob/runbob-app-store-page-thumb.jpg" alt="RunBob App Store page" width="160"></a>
+
+I made it to record my kids' runs without turning a stopwatch into a spreadsheet.
