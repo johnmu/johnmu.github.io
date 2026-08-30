@@ -19,8 +19,8 @@ definitions, recorded numeric values or climbing grades, dates, notes, and
 progress history. This data is stored on your device and may sync through your
 personal iCloud account when iCloud is available.
 
-The developer does not collect, sell, or share this data through a
-developer-operated server.
+RecordBob does not transmit this data to a developer-operated server. The
+developer does not sell or share it.
 
 ## Photos
 
@@ -40,6 +40,13 @@ You can delete individual entries from Log or Progress. You can delete a profile
 or stat from Library; RecordBob warns that this also deletes the recorded entries
 associated with that profile or stat. Deletions may sync to your other devices
 through iCloud.
+
+## Sharing
+
+RecordBob sends no diagnostics automatically. If you choose **Share Support
+Details**, iOS presents its standard share sheet and sends the app version,
+device type, and iOS version only to the destination you select. The privacy
+practices of that destination apply after you share.
 
 ## Children's privacy
 
